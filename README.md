@@ -1,5 +1,5 @@
 # Athletic Data Analysis
-A Google Apps Script to analyze reporting data. 
+A Google Apps Script to analyze athletics data. 
 
 # How To Use
 Install as a Google Sheets App by going to your sheet, selecting Add-Ons, selecting Get Add-Ons, selecting All, selecting "for @ga.tmsschool.ca users", and then selecting Athletic Data Analysis. 
